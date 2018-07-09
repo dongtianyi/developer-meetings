@@ -45,7 +45,7 @@ Here's a sketch of updates we could have on Day 1 and Day 2. People might want t
 | orbit-db                | @haadcode                   |
 | GUI WG                  | @olizilla                   |
 | peer-star               | @satazor (in lieu of @pgte) |
-| slot 6                  |                             |
+| pserver                  | @waynewyong                            |
 | slot 7                  |                             |
 | slot 8                  |                             |
 | slot 9                  |                             |
